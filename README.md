@@ -1,0 +1,2 @@
+# HashDrop
+Secure platform
